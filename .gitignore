@@ -1,0 +1,8 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fusion 360 temp/backup files
+*.f3d.bak
+~$*
