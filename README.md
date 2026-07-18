@@ -1,16 +1,20 @@
-# 6-DOF Robotic Arm — Build Project
+# 5-DOF Robotic Arm — Build Project
 
-My first CAD project: a 6 degrees-of-freedom robotic arm, designed from scratch and modeled in Fusion 360 — 3D-printed, servo-driven.
+My first CAD project: a 5 degrees-of-freedom robotic arm, designed from scratch and modeled in Fusion 360 — 3D-printed, servo-driven.
 
 I started with zero prior CAD experience. This repo tracks the build from a rough paper concept through to a full parametric assembly with working revolute joints.
 
 ## Specs
 
-- **DOF:** 6 (base rotation, shoulder, elbow, wrist pitch, wrist roll, end effector)
-- **Servo:** MG996R (x6)
+- **DOF:** 5 actuated (base rotation, shoulder, elbow, wrist pitch, wrist roll) — the gripper is currently rigid/non-actuated, so it isn't counted as a DOF
+- **Servo:** MG996R (x6 — 5 for the actuated joints, 1 mounting position reserved for the future actuated gripper)
 - **Max reach:** ~450mm | **Height:** ~430mm
 - **Material:** PLA/ABS, 3D printed
 - **Plate/arm thickness:** 6mm (arms: 10mm)
+
+## Demo Video
+
+[Watch on YouTube](https://www.youtube.com/watch?v=XADxn0iLTfg)
 
 ## Current status: end effector is a placeholder
 
