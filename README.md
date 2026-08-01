@@ -52,13 +52,6 @@ Ran a multi-joint Motion Study in Fusion 360 to validate the full range of motio
 
 A screen-recorded walkthrough of the motion study in action is in `media/motion_study_compressed.mp4`.
 
-## Renders
-
-![Isometric render](media/roboarm_iso.png)
-![Front view](media/roboarm_front.png)
-![Top view](media/roboarm_top.png)
-
-A turntable video (`media/roboarm_turntable.mp4`) is also included for a full 360° view of the assembled model.
 
 ## Repo structure
 
